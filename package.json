@@ -1,0 +1,37 @@
+{
+  "name": "react-native-nononsense-file-picker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaancelen/react-native-nononsense-file-picker.git"
+  },
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "React native file picker component for android devices",
+  "author": "Berat Kaan Çelen <bkaancelen@gmail.com> (https://github.com/kaancelen)",
+  "nativePackage": true,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaancelen/react-native-nononsense-file-picker/issues"
+  },
+  "homepage": "https://github.com/kaancelen/react-native-nononsense-file-picker",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "file",
+	"document",
+	"picker",
+	"attach",
+    "uri",
+    "utils"
+  ],
+  "files": [
+    "android/",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "react-native": ">= 0.33"
+  }
+}
